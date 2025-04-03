@@ -1,4 +1,5 @@
 #gmail {
+<<<<<<< HEAD
     font-size: 13px;
     font-family: Arial, sans-serif;
     text-decoration: none;
@@ -31,3 +32,37 @@
     padding: 10px 30px;
     border-radius: 4px
   }
+=======
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: #000000;
+}
+
+#imagens {
+  font-size: 13px;
+  font-family: Arial, sans-serif;
+  text-decoration: none;
+  color: #000000;
+}
+
+Img {
+  height: 92px;
+}
+
+.icone_produtos {
+  width: 24px;
+  fill: #5f6368;
+  cursor: pointer;
+}
+
+#botao_entrar {
+  background-color: #1a73e8;
+  text-decoration: none;
+  font-family: Google Sans, Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 4px
+}
+>>>>>>> c9ccfed5cb14ccc1e786bcc9fe6c0a4208cfcc58
